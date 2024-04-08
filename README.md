@@ -9,7 +9,6 @@ I´m **Andres Alaix/alaixgg** and it is a ✨ _special_ ✨ repository because i
 
 🧠 Additionally, I have pursued self-directed studies in FullStack development, JavaScript Development, and Artificial Intelligence with Python.  
 
-♾️ Furthermore, I possess knowledge in Arduino and ESP, programming and sensor integration. 
 
 📈 In the realm of data science, I excel in data manipulation and visualization, leveraging tools such as Tableau to derive meaningful insights.
 
