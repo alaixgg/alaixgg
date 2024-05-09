@@ -23,7 +23,7 @@ I´m **Andres Alaix/alaixgg** and it is a ✨ _special_ ✨ repository because i
 <a href="https://twitter.com/alaix9g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alaix9g" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/andres-julian-alaix-perez-1b9150213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andres-julian-alaix-perez-1b9150213" height="30" width="40" /></a>
 <a href="https://instagram.com/alaixgg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alaixgg" height="30" width="40" /></a>
-<a href="https://discord.gg/alaixgg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="alaixgg" height="30" width="40" /></a>
+<a href="https://discord.com/users/701226393345982535?fbclid=IwZXh0bgNhZW0CMTAAAR085mp1HhmcFeSJDMvSEHQ4Jh7QR5__FjB0zviGryIm-B-TVJeYDWziKnM_aem_AdRfeHF_h5C2rPohuqYiMOIM3AenTM4x6zKpsaC6r2EoE2rVsXRDipC8f7gb8CMwPp4ZzSHDbkl_WhDTdZh-pFUV" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="alaixgg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
