@@ -3,7 +3,7 @@
 
 I´m **Andres Alaix/alaixgg** and it is a ✨ _special_ ✨ repository because its my  `README.md`
 
-🎓 Currently, I am in the seventh semester of Systems of Engineering at Universidad de Bogota Jorge Tadeo Lozano. 🤓☝️ 
+🎓 Currently, I am in the eighth semester of Systems of Engineering at Universidad de Bogota Jorge Tadeo Lozano. I am the student representative on the board of directors for the 2025-2026 period.🤓☝️ 
 
 👨‍💻</> As a university student, I have acquired skills in various programming languages such as C++, Java, C, SQL, Python, as well as developing expertise in object-oriented programming, data structures, and the implementation of design patterns. </> 
 
